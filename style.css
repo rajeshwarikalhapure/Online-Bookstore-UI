@@ -1,0 +1,14 @@
+body {
+  background-color: #f8f9fa;
+}
+
+.card img {
+  height: 250px;
+  object-fit: cover;
+}
+
+#cart-items li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
